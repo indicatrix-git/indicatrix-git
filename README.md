@@ -4,7 +4,7 @@
 - :seedling: I used .NET C/C++/C#, SQL, DirectX/OpenGL, Unity
 
 My old git hub: 
-:link: <a href="https://github.com/mtt-git" target="_blank">mtt-git</a>
+- :link: <a href="https://github.com/mtt-git" target="_blank">mtt-git</a>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
